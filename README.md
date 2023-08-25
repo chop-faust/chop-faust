@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chop-faust
-- 👀 I’m interested in JavaScript
+- 👀 I’m interested in Web Development & App Development 
 - 🌱 I’m currently learning the MERN Stack (ReactJS, ExpressJS, MongoDB, NodeJS) and React Native
 
 <!---
